@@ -1,0 +1,86 @@
+.jumbotron
+{
+    background: url("images/Bonzai\ -\ Background.jpg");
+    background-color: #b3e4f1;
+    border: 5px solid black;
+    text-align: center;
+    margin-bottom: 0px;
+    min-height: 100vh;
+}
+
+.hero-text
+{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+}
+
+.main-prompt
+{
+    font-family: 'Inter';
+    font-size: 45px;
+    color: black;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.search-form
+{
+    margin-top: 2em;
+}
+
+.user-request
+{
+    background-color: white;
+    width: 60vw;
+    border: 2px solid black;
+    border-radius: 30px 30px 30px 30px;
+    font-size: 20px;
+}
+
+.user-search
+{
+    background-color: #b3e4f1;
+    color: black;
+    box-shadow: 2px 2px 2px 2px black;
+    border-radius: 20px 20px 20px 20px;
+    margin-left: 0.5em;
+    font-size: 22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+}
+
+.user-search:hover
+{
+    background-color: #66cde9;
+}
+
+.user-search:active
+{
+    transform: scale(0.98);
+    background-color: #b3e4f1;
+    box-shadow: 0px 0px 0px 0px black;
+}
+
+.content
+{
+    background-color: #b3e4f1;
+    border: 5px solid black;
+    text-align: center;
+    padding-bottom: 5vmin;
+}
+
+.col-lg
+{
+    padding: 5vmin;
+}
+
+.card
+{
+    background-color: #b3e4f1;
+    border: 5px solid black;
+    border-radius: 30px 30px 30px 30px;
+    text-align: center;
+}

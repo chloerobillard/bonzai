@@ -1,8 +1,10 @@
 .jumbotron
 {
-    background: url("images/Bonzai\ -\ Background.jpg");
-    background-color: #b3e4f1;
-    border: 5px solid black;
+    background: url("images/Bonzai\ -\ Background.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     text-align: center;
     margin-bottom: 0px;
     min-height: 100vh;
@@ -60,7 +62,7 @@
 .user-search:active
 {
     transform: scale(0.98);
-    background-color: #b3e4f1;
+    background-color: #14b4e0;
     box-shadow: 0px 0px 0px 0px black;
 }
 

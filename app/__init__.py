@@ -2,6 +2,8 @@ from flask import Flask
 # from flask_login import LoginManager
 import os
 
+from . import auth
+
 def create_app(test_config = None):
     template_dir = os.path.abspath('frontend')
     app = Flask(__name__, instance_relative_config = True, template_folder = template_dir, static_folder = template_dir, static_url_path = '')

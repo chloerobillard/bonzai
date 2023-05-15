@@ -1,11 +1,31 @@
-.content
+.jumbotron
+{
+    background: url("images/Bonzai\ -\ Background.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 0px;
+    min-height: 100vh;
+}
+
+/*.content
 {
 	background-color: #b3e4f1;
-}
+}*/
 
 .navbar
 {
 	background-color: #b3e4f1;
+}
+
+.logo
+{
+    background: url("images/Bonzai\ -\ Logo.png") no-repeat center center fixed; 
+    width: 55px;
+    height: 156px;
+    object-fit: scale-down;
 }
 
 .account-button

@@ -12,9 +12,11 @@ The need for increased fulfillment in the workplace is very concrete and current
 
 My platform will address six areas of fulfillment relevant to life (emotional, mental, physical, practical, social, and spiritual) and five areas of fulfillment specific to work (independence, mental health, physical health, productivity, and sociability). These life and work frameworks have overlap which is mutually exclusive as pertaining specifically to the workplace or to life outside of work. 
 
-My current prospective features are the following:
+**Bonzai's Main Feature:**
 
 **Feature 1: Enscribe:** A journaling platform with sentiment analysis and cybersecurity techniques (e.g., cryptographic methods such as symmetric encryption) to ensure safe data storage and privacy.
+
+***Optional Features:***
 
 **Feature 2: Blend:** A company chat matching platform where two people from the same workplace are matched for a chat over coffee or tea virtually or in-person. This platform would also rotate matches each week.
 

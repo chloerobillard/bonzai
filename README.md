@@ -1,6 +1,6 @@
 # Bonzai
 
-***Note:*** This project is currently under construction.
+***Note:*** *This project is currently under construction.*
 
 ***Bonzai is my preliminary Capstone project for Minerva University which will become a web-based toolkit for medium- and large-scale business employees to seek fulfillment in the workplace.***
 
@@ -26,7 +26,7 @@ The following are Bonzai's three features which, together, address all five area
 
 **Analytics:** A separate feature which tracks the effective use of the other three main features of Bonzai for company-wide data tracking related to workplace fulfillment.
 
-***Note:*** *My final Capstone project for Minerva University consists of this GitHub repository deliverable as well as an interactive Figma prototype and business plan which will be presented in conjunction with this resource to academic stakeholders. 
+***Note:*** *My final Capstone project for Minerva University consists of this GitHub repository deliverable as well as an interactive Figma prototype and business plan which will be presented in conjunction with this resource to academic stakeholders.*
 
 --------------------
 
